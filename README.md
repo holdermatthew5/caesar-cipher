@@ -1,7 +1,7 @@
 **Author:** Matthew Holder
 **Vaersion:** 0.1.0
 
-[PR]()
+[PR](https://github.com/holdermatthew5/caesar-cipher/pull/1#issue-568875664)
 
 Problem Domain:
 
@@ -22,4 +22,4 @@ Description:
 - crack:
   - Takes in an encrypted string.
   - Runs decrypt 25 times counting the number of recognizable words made in each decryption.
-  - Returns the return value of decrypt passing in the encrypted text and our guessed key.
+  - Returns the return value of decrypt passing in the encrypted text and our guessed key
